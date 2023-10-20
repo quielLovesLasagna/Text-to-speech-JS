@@ -1,6 +1,7 @@
 # Text-to-speech-JS
 
 Repository name: Text-to-speech-JS
+
 Description: This JavaScript application allows you to convert text into speech. It utilizes the Web Speech API to provide an audible representation of the text you enter in the textarea.
 
 Key Features:
